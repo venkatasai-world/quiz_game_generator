@@ -6,3 +6,8 @@
   Lets look at the interface of the user input in Turtle Graphics
 </h2>
 <img src="second one.png">
+<br>
+<p>
+  After the user enter the his choice for turtle he can visulaize the race wheather his slected turtle has won the race or not 
+</p>
+<img src="firstone.png">
